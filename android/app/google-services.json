@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "9173846325",
+    "firebase_url": "https://magazine-e2efa.firebaseio.com",
+    "project_id": "magazine-e2efa",
+    "storage_bucket": "magazine-e2efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9173846325:android:0e1ca2c3835dbf1025247c",
+        "android_client_info": {
+          "package_name": "com.example.fluttermag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9173846325-42slibcpec9sgvpnefim3vhh1if0aotj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6VFDo0VQgaOkX_ZRWpqCNLDS89yxuENY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9173846325-42slibcpec9sgvpnefim3vhh1if0aotj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

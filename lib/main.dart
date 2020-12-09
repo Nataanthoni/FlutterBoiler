@@ -1,6 +1,8 @@
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttermag/account.dart';
 import 'package:fluttermag/home.dart';
+import 'package:fluttermag/login.dart';
 
 void main() {
   runApp(MyApp());
