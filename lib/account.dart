@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fluttermag/anaother.dart';
+import 'package:fluttermag/welcome.dart';
 import 'package:fluttermag/sample.dart';
 
 class AccountScreen extends StatelessWidget {

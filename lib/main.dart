@@ -1,6 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttermag/account.dart';
+import 'package:fluttermag/welcome.dart';
 import 'package:fluttermag/home.dart';
 import 'package:fluttermag/login.dart';
 
@@ -16,10 +17,11 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: ThemeData(
+        fontFamily: "Poppins-Regular",
         primaryColor: Colors.white,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: HomeScreen(),
+      home: WelcomeScreen(),
     );
   }
 }
